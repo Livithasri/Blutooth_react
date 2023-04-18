@@ -15,7 +15,7 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 50px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -35,4 +35,21 @@
   to {
     transform: rotate(360deg);
   }
+}
+.buy{
+  margin-top: 15%;
+}
+.img{
+  width: 100%;
+}
+.left{
+  float: left;
+  width: 40%;
+}
+.right{
+  float: right;
+  width: 60%;
+}
+.offer{
+  color:crimson;
 }
