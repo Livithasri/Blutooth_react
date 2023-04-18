@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Blutooth_react/static/css/main.66cb28bc.css",
+    "main.js": "/Blutooth_react/static/js/main.0b3a3e65.js",
+    "static/js/787.462b490c.chunk.js": "/Blutooth_react/static/js/787.462b490c.chunk.js",
+    "static/media/stone.gif": "/Blutooth_react/static/media/stone.58a155bd3570c3e6199b.gif",
+    "static/media/pict1.webp": "/Blutooth_react/static/media/pict1.196814e1c5069864bc92.webp",
+    "static/media/pict3.webp": "/Blutooth_react/static/media/pict3.33d7c6dd697c305e1bc7.webp",
+    "static/media/spcl.webp": "/Blutooth_react/static/media/spcl.05c6d0368e884f515651.webp",
+    "static/media/pict4.webp": "/Blutooth_react/static/media/pict4.8a4cb9044a82186b543d.webp",
+    "static/media/pict2.webp": "/Blutooth_react/static/media/pict2.e7a9a754774f23638a73.webp",
+    "static/media/logo.svg": "/Blutooth_react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Blutooth_react/index.html",
+    "main.66cb28bc.css.map": "/Blutooth_react/static/css/main.66cb28bc.css.map",
+    "main.0b3a3e65.js.map": "/Blutooth_react/static/js/main.0b3a3e65.js.map",
+    "787.462b490c.chunk.js.map": "/Blutooth_react/static/js/787.462b490c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66cb28bc.css",
+    "static/js/main.0b3a3e65.js"
+  ]
+}
